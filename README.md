@@ -1,16 +1,27 @@
-### Hi there 👋
+# Readme-v.01
+Kaito Amare
 
-<!--
-**ryu-amare/ryu-amare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A virtual content creator (Vtuber in short) that makes virtual things.
 
-Here are some ideas to get you started:
+Things that the user created:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Elisa Discodia (Planning)
+Lilith Keiren (Planning)
+
+Skills
+
+Video Editing - Sony Vegas, Filmora
+Audio Editing - Audacity
+Photo Editing - Photoshop, Sketchbook
+
+Programming - Python, Node.js, HTML, CSS, Git
+
+Other Skills
+
+Writing manuscripts (Novel, stories, poems, ect.)
+Creating virtual content creators like assets, models, ect.
+Traditonal Artist
+Directing on short films
+
+
+"How long we will suffer and enjoy again to these moments? How long will we destroy and create the worlds we are passionate about? The answer lies within the creators' hearts."
