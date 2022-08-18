@@ -1,4 +1,4 @@
-# Readme-v.01
+# User Information
 Kaito Amare
 
 A virtual content creator (Vtuber in short) that makes virtual things.
